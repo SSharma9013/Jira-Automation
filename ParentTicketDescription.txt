@@ -1,0 +1,22 @@
+Skype 8: Compatibility test for Skype_version
+
+1. Following features should be supported:-
+
+2. Peer To Peer conversation archival.
+
+3. Group conversation archival.
+
+4. Sending of Disclaimer.
+
+5. IM Clients Blocking.
+
+6. Duplicate Chat logs should not exist.
+
+7. Conversation should not be missed.
+
+8. File Transfer should be archived with Filenames.
+
+9. Each line of conversation should contain correct Sender/Receiver
+
+SOP: Skype 8 Compatibility test
+https://smarsh.atlassian.net/wiki/spaces/DEV/pages/358252644/SOP+Compatibility+Tests+for+Skype+v8+
