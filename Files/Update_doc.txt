@@ -1,0 +1,5 @@
+After conducting the compatibility test for Skype version preview as well as for Skype version GA the Support chart should be updated timely.
+
+Support chart link: https://smarsh.atlassian.net/wiki/spaces/PRES/pages/407503244/IMPM+-+Support+Chart
+
+Any new features should be updated here:  https://smarsh.atlassian.net/wiki/spaces/PRES/pages/406487447/Skype+Features
